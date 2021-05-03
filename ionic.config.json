@@ -1,0 +1,8 @@
+{
+  "name": "Thalo Assist",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
