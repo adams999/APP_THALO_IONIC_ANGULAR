@@ -1,0 +1,6 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "Thalo Assist",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
